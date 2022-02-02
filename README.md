@@ -11,7 +11,7 @@ You can reset the game by clicking "Again!" and it will update your scores and t
 
 The point of this lesson was DOM manipulation </br>
 
-DEMO: <img src="https://i.hurricanedancer.com/cUhvJ4u8lUxL>
+DEMO: <img src="https://i.hurricanedancer.com/cUhvJ4u8lUxL">
 
 PS. The font is a google font 🤷‍♂️
 
