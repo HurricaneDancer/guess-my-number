@@ -57,7 +57,7 @@ const loseCondition = function () {
   updateMessage('You lose! Play again?');
 };
 
-// validate if their guess is still > 1, otherwise run a lose condition
+// validate if their current score is still > 1, otherwise run a lose condition
 document.querySelector('.check').addEventListener('click', function () {
   const guess = +document.querySelector('.guess').value;
   if (!guess) return updateMessage('Please guess a number');
