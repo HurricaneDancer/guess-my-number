@@ -45,6 +45,8 @@ const winCondition = function () {
       '.label-highscore'
     ).textContent = `🥇 Highscore: ${highScore}`;
   }
+  document.querySelector('.number').textContent = secretNumber;
+
   updateMessage('You win!');
   updateBackground('green');
 };
